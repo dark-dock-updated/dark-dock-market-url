@@ -75,3 +75,5 @@ Store your recovery information (e.g., mnemonic phrase, password reset details) 
 <a href="http://jodsc7kug54j4a3sxh26aec2aeqxmo4kyaz4xv2oosytzyesg3uagvyd.onion"><img src="/default/static.webp" alt="DarkDock Login" style="max-width: 100%;"></a>
 
 <a href="http://jodsc7kug54j4a3sxh26aec2aeqxmo4kyaz4xv2oosytzyesg3uagvyd.onion"><img src="/default/freeze.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
+
+Update: Fixed broken image references in docs
