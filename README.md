@@ -76,4 +76,6 @@ Store your recovery information (e.g., mnemonic phrase, password reset details) 
 
 <a href="http://jodsc7kug54j4a3sxh26aec2aeqxmo4kyaz4xv2oosytzyesg3uagvyd.onion"><img src="/default/freeze.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
 
-Update: Fixed broken image references in docs
+
+
+Update:  04.07.2025 Fixed broken external link
