@@ -78,4 +78,6 @@ Store your recovery information (e.g., mnemonic phrase, password reset details) 
 
 
 
-Update:  04.07.2025 Fixed broken external link
+
+
+Update:  07.07.2025
